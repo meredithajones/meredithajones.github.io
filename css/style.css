@@ -8,7 +8,7 @@ body > .container {
   }
 
   h3{
-    color: black !important;
+    color: rgb(19, 235, 199) !important;
 
   }
   
@@ -44,7 +44,7 @@ body > .container {
     font-size: 18px;
   }
   
-  img {
+  .img-fluid {
     border: 5px solid #1ca688;
     padding-top: 10px;
     padding-right: 10px;
